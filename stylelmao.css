@@ -1,0 +1,29 @@
+body {
+    background-color: #9cf1d1; 
+    font-family: Georgia, serif; 
+  }
+  #hoved {
+    width: 60%;                 
+    margin: 50px auto;          
+    padding: 40px;	             
+    background-color: rgb(189, 243, 154); 	
+    border: 1px solid #e6aaf8; 
+  }
+  a {
+    color: #037eb6;
+    text-decoration-color: #a6dbf8;
+  }
+  a:visited {
+    color: #EB5940;
+  }
+  a:hover {
+    color: #EB5940;
+    text-decoration-color: #97ee86;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  a:focus {
+    color: #EB5940;
+    text-decoration-color: #eaf0a0;      
+  }
